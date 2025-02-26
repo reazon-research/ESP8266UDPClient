@@ -1,0 +1,13 @@
+# シンタックスハイライト用キーワード定義
+
+# クラス (KEYWORD1)
+ESP8266UDPClient	KEYWORD1
+
+# メソッド・関数 (KEYWORD2)
+begin	KEYWORD2
+beginUDP	KEYWORD2
+sendPacket	KEYWORD2
+getResponse	KEYWORD2
+getResponseHigh	KEYWORD2
+
+# 定数 (LITERAL1)
