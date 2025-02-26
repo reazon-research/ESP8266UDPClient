@@ -1,6 +1,9 @@
 # ESP8266UDPClient
 
-ESP8266 Wi-FiモジュールをATコマンドで制御し、UDP通信を行うためのArduinoライブラリです。Spresenseなどのマイコンボードで使用できます。
+ESP8266 Wi-FiモジュールをATコマンドで制御し、UDP通信を行うためのArduinoライブラリです。
+
+Spresenseなどのマイコンボードで使用できます。
+
 テスト環境:Spresense+ThousanDIY SPRESENSE用Wi-Fi add-onボード https://www.switch-science.com/products/4042
 
 ## 機能
