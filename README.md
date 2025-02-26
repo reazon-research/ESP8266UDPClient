@@ -60,7 +60,9 @@ void loop() {
 
 ## PC 側での受信方法
 
-このリポジトリには、PC（Windows、Mac、Linux など）で UDP パケットを受信するための Python スクリプトも含まれています。
+- PC のローカル IP アドレスを調べて Arduino スケッチのアドレスを書き換えます。
+- ターミナルで自分のローカル IP を調べるコマンド例：echo "$(ipconfig getifaddr en0) $(ipconfig getifaddr en1)"
+- このリポジトリには、PC（Windows、Mac、Linux など）で UDP パケットを受信するための Python スクリプトも含まれています。
 
 ### シンプル表示版
 
